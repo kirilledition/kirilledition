@@ -1,6 +1,6 @@
 👋 Hi, I’m Kirill
 
-🧑‍💻 Follow my [blog](t.me/kirilledition) on Telegram
+🧑‍💻 Follow my [blog](https://t.me/kirilledition) on Telegram
 
 I’m interested in
 - 📊 Data Science
